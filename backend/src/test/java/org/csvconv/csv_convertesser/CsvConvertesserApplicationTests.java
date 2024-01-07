@@ -1,10 +1,10 @@
-package ma.dnaengineering.backend;
+package org.csvconv.csv_convertesser;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BackendApplicationTests {
+class CsvConvertesserApplicationTests {
 
 	@Test
 	void contextLoads() {
